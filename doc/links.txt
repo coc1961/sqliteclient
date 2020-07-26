@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Box-drawing_character
+https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_sequences
+http://ascii-table.com/ansi-escape-sequences.php
+https://unix.stackexchange.com/questions/76566/where-do-i-find-a-list-of-terminal-key-codes-to-remap-shortcuts-in-bash
+https://github.com/buger/goterm
+https://en.wikipedia.org/wiki/ANSI_escape_code
